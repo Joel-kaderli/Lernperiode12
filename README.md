@@ -1,7 +1,7 @@
 # Lernperiode12
 
 
-## Arbeitspakete 17.10.1025 
+## Arbeitspakete 17.10.2025 
 
 - [ ] Bewerbungen
 - [ ] LB Modul 324 Devops das Letzte Handlungsziel fertig stellen
@@ -13,3 +13,7 @@
 - [ ] Java anschauen weggen Praktikum
 - [ ] Prokejkt suchen?
 
+## Arbeitspakete 31.10.2025
+
+- [ ] HTML repetition für Probetag nächste Woche
+- [ ] Java weiter anschauen
