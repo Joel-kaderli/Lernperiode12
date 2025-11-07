@@ -17,3 +17,8 @@
 
 - [ ] HTML repetition für Probetag nächste Woche
 - [ ] Java weiter anschauen
+
+## Arbeitspakete 07.11.2025
+
+- [ ] Bewerbungen falls es nicht klappt mit der einen Stelle
+- [ ] Java weiter anschauen
