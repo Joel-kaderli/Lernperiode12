@@ -22,3 +22,15 @@
 
 - [ ] Bewerbungen falls es nicht klappt mit der einen Stelle
 - [ ] Java weiter anschauen
+
+## 14.11.2025
+- [ ] Java Modul 226 anfangen zuarebieten
+- [ ] Am Modul 321
+
+## 21.11.2025
+- [ ] ColdFusion reinschauen auch wegen dem Praktikum
+- [ ] Am modul 226 weiter arbeiten
+- [ ] Am Modul 321 Verteilte systemeweiter arbeiten
+
+##
+
