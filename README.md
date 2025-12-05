@@ -32,5 +32,13 @@
 - [ ] Am modul 226 weiter arbeiten
 - [ ] Am Modul 321 Verteilte systemeweiter arbeiten
 
-##
+## 28.11.2025
+- [ ] ColdFusion reinschauen auch wegen dem Praktikum
+- [ ] Java weiterarbeiten mit Buch
+- [ ] Am Modul 321 Verteilte systemeweiter arbeiten
+
+##  05.12.2025
+- [ ] ColdFusion übungen machen mit Chatgpt
+- [ ] Am modul 226 weiter arbeiten
+- [ ] Am Modul 321 Verteilte systemeweiter arbeiten
 
