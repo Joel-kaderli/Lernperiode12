@@ -43,5 +43,6 @@
 - [ ] Am Modul 321 Verteilte systemeweiter arbeiten
 
 ## 12.12.2025
-
+- [ ] Am Modul 321 Verteilte systemeweiter arbeiten und für die das LB projekt arbeiten
+- [ ] java weiterarbeiten
 
