@@ -46,3 +46,7 @@
 - [ ] Am Modul 321 Verteilte systemeweiter arbeiten und für die das LB projekt arbeiten
 - [ ] java weiterarbeiten
 
+## 19.12.2025
+- [ ] Modul 223 nacharbeiten
+- [ ] Coldfusion ein arbeiten also übungen weitermachen 
+
